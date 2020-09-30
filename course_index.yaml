@@ -1,0 +1,8 @@
+title: Git fundamentals
+description: Learn the basic git commands
+display_image: https://www.cloudsavvyit.com/p/uploads/2019/10/e713ed70-1.png
+labs:
+- title: git
+  description: learn the basic git commands
+  directory: /git
+  number_of_tasks: 3

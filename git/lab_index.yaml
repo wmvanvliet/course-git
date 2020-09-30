@@ -1,0 +1,19 @@
+title: git
+description: learn the basic git commands
+details:
+  intro:
+    text: intro.rst
+  steps:
+  - name: step1
+    title: Title for step 1
+    text: step1.rst
+  - name: step2
+    title: Title for step 2
+    text: step2.rst
+  - name: step3
+    title: Title for step 3
+    text: step3.rst
+  finish:
+    text: finish.rst
+grader: grader.py
+initializationScript: setup.py
